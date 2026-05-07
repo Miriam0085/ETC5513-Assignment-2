@@ -1,0 +1,12 @@
+---
+title: "Example Demo"
+author: "Miriam Wu"
+format: html
+editor: visual
+---
+
+## Quarto
+
+\## Hello Git 
+
+This is a simple file to demonstrate the \*\*reproducible workflow\*\*.
