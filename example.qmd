@@ -11,4 +11,8 @@ editor: visual
 
 This is a simple file to demonstrate the \*\*reproducible workflow\*\*.
 
+<<<<<<< HEAD
 -   Changes made on the main branch
+=======
+-   Changes made on testbranch.
+>>>>>>> testbranch
